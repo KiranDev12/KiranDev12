@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kiran Dev K</h1>
-<h3 align="center">A passionate developer, learning and building stuffs. Driven to analyse and understand new businesses.</h3>
+<h1 align="center">Hi, I'm Kiran Dev K</h1>
+<h3 align="center">A passionate developer, learning and building stuffs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirandev12&label=Profile%20views&color=ed333b&style=flat" alt="kirandev12" /> </p>
 <br>
