@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXduM2N4OG54NWdzdjh2Zm5zaWQyeHN0Zzh0eTQ5ZWtvOHdqY20weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🧑🏾‍💼 I’m currently learning <b>MERN Stack Web Development</b>
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1L6waaLifyVSQvmjSDvKw_ntGL2aIgfCI/view?usp=sharing)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1qRyU_v138-bS9KGnXNRrsvhY7fBrPFH6/view?usp=sharing)
 
 - 💻 All of my projects are available on [GitHub](https://github.com/kirandev12)
 
